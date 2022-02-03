@@ -1,0 +1,7 @@
+.searchs{
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  border: none;
+  margin-bottom: 30px;
+}
