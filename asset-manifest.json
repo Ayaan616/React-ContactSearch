@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ContactSearch/static/css/main.1d0844de.css",
+    "main.js": "/React-ContactSearch/static/js/main.e196dd18.js",
+    "static/js/787.81db678b.chunk.js": "/React-ContactSearch/static/js/787.81db678b.chunk.js",
+    "index.html": "/React-ContactSearch/index.html",
+    "main.1d0844de.css.map": "/React-ContactSearch/static/css/main.1d0844de.css.map",
+    "main.e196dd18.js.map": "/React-ContactSearch/static/js/main.e196dd18.js.map",
+    "787.81db678b.chunk.js.map": "/React-ContactSearch/static/js/787.81db678b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0844de.css",
+    "static/js/main.e196dd18.js"
+  ]
+}
